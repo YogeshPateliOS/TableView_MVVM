@@ -1,0 +1,12 @@
+//
+//  UserModel.swift
+//  TableView_MVVM
+//
+//  Created by Mittal Shah on 5/4/23.
+//
+
+import Foundation
+
+struct UserModel {
+    let firstName: String
+}
